@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BleDemo2</string>
+    <string name="label_device_address">设备地址：</string>
+    <string name="label_state">状态：</string>
+    <string name="label_data">数据：</string>
+    <string name="label_device_name">设备名称：</string>
+    <string name="button_scan">扫描</string>
+    <string name="button_connect">连接</string>
+    <string name="button_send_data">发数据</string>
+    <string name="connecting_hint">正在连接中，稍等。。。</string>
+    <string name="write_text_send_err">发送失败!</string>
+    <string name="disconnected_hint">连接失败</string>
+    <string name="connected_hint">连接成功</string>
+
+</resources>
